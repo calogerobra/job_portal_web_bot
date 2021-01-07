@@ -1,0 +1,16 @@
+-Google Chrome 87.0.4280.88
+-chromedriver for Selenium
+
+Paths to set:
+-path to webdriver
+-path to repo for PDFs to be saved
+-path to repo for exported Excel and CSV file
+-path to repo for 
+
+Python packages:
+-datetime
+-pandas
+-bs4
+-time
+-csv
+-json
